@@ -1,5 +1,5 @@
 # loratap_hubitat
-Hubitat driver for LoraTap (TS130F Tuya-based) gang of 2 curtain/blinds Zigbee switch .
+Hubitat driver for LoraTap SC420ZB (TS130F Tuya-based) gang of 2 curtain/blinds Zigbee switch .
 manufacturer: "_TZ3000_esynmmox"
 
 The code is initially based on "Zemismart Zigbee Blind Driver" "community driver by amosyuen and kkossev.
